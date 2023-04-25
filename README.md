@@ -10,7 +10,7 @@ each bucket's empty volume after each suggestion.
 
 Frontend Framework: A frontend framework such as React is used to build the user interface, allowing users to input their data and view the suggested ball placements.
 
-Other funtionality of backend : Jsonwebtoken is used for verification,bcrypt used for password hashing and salting, body-parserused for parsing the request body 
+Other funtionality of backend : Jsonwebtoken is used for verification,bcrypt used for password hashing and salting, body-parser used for parsing the request body 
 in the form of JSON, text, and URL-encoded data.
 
 
